@@ -10,5 +10,5 @@ Sou formada em Administração e atualmente atuo na área de operações e risco
 - ⚡ Curiosidade: Adoro usar tecnologia para otimizar processos do dia a dia.
 
 - ### 📫 Conecte-se comigo:
-[![LinkedIn](https://www.linkedin.com/in/franciellejacobino/)
-[![Email](franciellejacobino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciellejacobino/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciellejacobino@gmail.com)
